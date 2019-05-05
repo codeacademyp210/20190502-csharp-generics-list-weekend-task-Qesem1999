@@ -1,0 +1,10 @@
+C:\Users\povil\Desktop\c#\generic task\GenericSolution\generic\bin\Debug\generic.exe.config
+C:\Users\povil\Desktop\c#\generic task\GenericSolution\generic\bin\Debug\generic.exe
+C:\Users\povil\Desktop\c#\generic task\GenericSolution\generic\bin\Debug\generic.pdb
+C:\Users\povil\Desktop\c#\generic task\GenericSolution\generic\obj\Debug\generic.csprojAssemblyReference.cache
+C:\Users\povil\Desktop\c#\generic task\GenericSolution\generic\obj\Debug\generic.Form1.resources
+C:\Users\povil\Desktop\c#\generic task\GenericSolution\generic\obj\Debug\generic.Properties.Resources.resources
+C:\Users\povil\Desktop\c#\generic task\GenericSolution\generic\obj\Debug\generic.csproj.GenerateResource.cache
+C:\Users\povil\Desktop\c#\generic task\GenericSolution\generic\obj\Debug\generic.csproj.CoreCompileInputs.cache
+C:\Users\povil\Desktop\c#\generic task\GenericSolution\generic\obj\Debug\generic.exe
+C:\Users\povil\Desktop\c#\generic task\GenericSolution\generic\obj\Debug\generic.pdb
